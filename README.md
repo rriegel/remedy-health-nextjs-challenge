@@ -4,7 +4,7 @@
 
 # HOW TO USE
 1. Clone the Github repository to your local machine
-2. Start the application with the command `npm i && npm run dev`
+2. Install Dependencies and Start the application with the command `npm i && npm run dev`
 3. Open the application in your browser by opening localhost:3000
 4. The landing page will allow you to enter your name and message to be added to the "Guest List" by pressing submit
 5. To view the Guest List, press the "Guest List" button in the top menu bar
